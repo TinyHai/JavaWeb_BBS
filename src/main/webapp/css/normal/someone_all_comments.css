@@ -1,0 +1,22 @@
+.right_span {
+    float: right;
+    width: auto;
+}
+
+.comment_line a {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.comment_line a:hover {
+    text-decoration: underline;
+}
+
+.comment_line a:visited {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.comment_lines {
+    font-size: large;
+}

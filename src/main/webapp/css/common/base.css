@@ -1,0 +1,72 @@
+.subtitle {
+    padding: 10px 10px;
+    border: #eeeeee 1px solid;
+    font-size: large;
+}
+
+.error {
+    color: red;
+    padding: 8px 8px 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 720px;
+    box-shadow: 0 0 15px #ccc;
+    line-height: 20px;
+}
+
+.line1 .bt {
+    padding: 0 20px;
+}
+
+.line1 .forget_pwd_a {
+    margin-left: 20px;
+}
+
+.forget_pwd_a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.forget_pwd_a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.forget_pwd_a:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.bottom {
+    font-size: large;
+    border: cadetblue 1px solid;
+    margin: 0 auto 2px;
+    width: 98%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.bottom a {
+    position: relative;
+    float: left;
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.bottom a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom a:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}

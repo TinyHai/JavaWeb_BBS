@@ -1,0 +1,10 @@
+div .line1 {
+    line-height: 30px;
+    padding: 8px;
+}
+
+div .line2 {
+    line-height: 30px;
+    padding: 8px;
+    background-color: #fbfbfb;
+}

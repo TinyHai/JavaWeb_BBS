@@ -1,0 +1,26 @@
+.right_span {
+    float: right;
+    width: auto;
+}
+
+.subtitle a {
+    font-size: small;
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.article_title {
+    font-size: large;
+}

@@ -1,0 +1,12 @@
+.divide_line {
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+    height: 1px;
+    background-color: cadetblue;
+}
+
+.time_container {
+    text-align: center;
+    padding: 10px 0;
+}

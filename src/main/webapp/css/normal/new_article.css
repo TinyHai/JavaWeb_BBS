@@ -1,0 +1,17 @@
+.bt {
+    padding: 0 20px;
+}
+
+.form_container {
+    padding: 10px 15px 0;
+}
+
+.article_title {
+    margin: 5px 0 15px;
+    width: 100%;
+}
+
+#tips {
+    color: red;
+    padding-left: 10px;
+}

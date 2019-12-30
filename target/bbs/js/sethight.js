@@ -1,0 +1,1 @@
+document.body.style.height = document.getElementById("container").scrollHeight + "px";

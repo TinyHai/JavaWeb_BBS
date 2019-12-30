@@ -1,0 +1,135 @@
+.author_info {
+    border: 1px solid #eeeeee;
+    padding: 8px;
+}
+
+.content {
+    padding: 10px 20px 10px;
+}
+
+.comment {
+    padding: 8px 10px 8px;
+}
+
+.comment_header {
+    border-bottom: solid #eeeeee 1px;
+    padding: 0 0 10px 0;
+}
+
+.comment_textarea {
+    width: 99%;
+    height: 80px;
+    margin: 5px 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 720px;
+    box-shadow: 0 0 15px #ccc;
+    line-height: 25px;
+}
+
+.subtitle {
+    padding: 10px 10px;
+    border: #eeeeee 1px solid;
+    font-size: large;
+}
+
+.bottom {
+    font-size: large;
+    border: cadetblue 1px solid;
+    margin: 0 auto 2px;
+    width: 98%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.bottom a {
+    position: relative;
+    float: left;
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.bottom a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom a:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.more {
+    font-size: large;
+    border: #eeeeee 1px solid;
+    margin: 0 auto 2px;
+    width: 98%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.more a {
+    position: relative;
+    float: left;
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.more a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.more a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.more a:hover {
+    color: #3d68a8;
+    text-decoration: underline;
+}
+
+.comment_line {
+    padding: 8px 10px 8px;
+}
+
+.right_span a:link {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.right_span a:hover {
+    text-decoration: underline;
+}
+
+.right_span a:visited {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.comment_line_a:link {
+    text-decoration: none;
+    color: #3d68a8;
+}
+
+.comment_line_a:visited {
+    text-decoration: none;
+    color: #3d68a8;
+}
+
+.comment_line_a:hover {
+    color: #3d68a8;
+    text-decoration: underline;
+}
+
+.comment_line_a

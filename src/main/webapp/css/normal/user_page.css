@@ -1,0 +1,19 @@
+.info {
+    line-height: 28px;
+    padding: 8px;
+}
+
+.info a:link {
+    text-decoration: none;
+    color: #3d68a8;
+}
+
+.info a:visited {
+    text-decoration: none;
+    color: #3d68a8;
+}
+
+.info a:hover {
+    color: #3d68a8;
+    text-decoration: underline;
+}

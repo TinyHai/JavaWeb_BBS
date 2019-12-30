@@ -1,0 +1,13 @@
+#tips {
+    margin: 20px;
+    font-size: large;
+}
+
+.bottom {
+    font-size: large;
+    border: cadetblue 1px solid;
+    margin: 0 auto 2px;
+    width: 98%;
+    text-align: center;
+    overflow: hidden;
+}
